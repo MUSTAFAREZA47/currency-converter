@@ -1,7 +1,7 @@
 # 🌍 Currency Converter  
 
 ## 📸 Screenshots  
-![Currency Converter UI Screenshot](./public/todo.png) 
+![Currency Converter UI Screenshot](./public/image.png) 
 
 A modern and beautifully designed **Currency Converter App** built using **React**, **Vite**, and **TailwindCSS**, powered by the **[Fawaz Ahmed Currency API](https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@latest/v1/currencies/)**.  
 
