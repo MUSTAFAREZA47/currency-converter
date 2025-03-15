@@ -15,7 +15,7 @@ function InputBox({
 
     return (
         <div
-            className={`bg-white p-5 rounded-2xl shadow-lg text-sm flex items-center gap-4 ${className}`}
+            className={`bg-white/10 p-5 rounded-2xl shadow-lg text-sm flex items-center gap-4 ${className}`}
         >
             {/* Amount Input Section */}
             <div className="w-1/2">
